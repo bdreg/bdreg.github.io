@@ -2,4 +2,5 @@
 
 BDR side for data håndtering og analyser. Andre relevante side for BDR er følgende:
 
-(kodebok)[https://bdreg.github.io/kodebok]
+[kodebok](https://bdreg.github.io/kodebok)
+
