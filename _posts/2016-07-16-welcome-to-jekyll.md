@@ -1,7 +1,0 @@
----
-layout: default
-title:  "Kodebok"
-date:   2016-07-16 12:00:00 -0400
-categories: kodebok
----
-Kodebok for BDR som inneholder variabel definisjon, verdi og endringer.
