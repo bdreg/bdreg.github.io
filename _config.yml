@@ -10,7 +10,7 @@ title: BDR
 email: barnediabetes@ous-hf.no
 description: Analyse og statistik for Nasjonalt medisinsk kvalitetsregister for barne- og ungdomsdiabetes (BDR).
 baseurl: "/bdreg.github.io" # the subpath of your site, e.g. /blog
-url: "https:/bdreg.github.io" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 
 # Logo settings
 logo-image-url: images/logo.svg
