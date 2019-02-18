@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: default
 title: Om BDR
 ---
 
+# Nasjonalt medisinsk kvalitetsregister for barne- og ungdomsdiabetes (BDR) 
 Barnediabetesregisteret (BDR) består av to deler. Den første delen registrerer alle barn og ungdom med nyoppdaget diabetes. Her registreres personalia, type diabetes, kliniske data og blodprøver.
 
 Den andre delen registrerer kvaliteten på diabetesbehandlingen ved hjelp av internasjonalt definerte diabetes kvalitetsvariabler. Hver pasient undersøkes en gang i året (Årskontroll). Da registreres kliniske data, opplysninger fra spørreskjema, svar på urin og blodprøver.
@@ -13,13 +14,16 @@ BDR har også fokus på registrering av insulinsjokk og diabetes ketoacidose (sy
 
 Et viktig verktøy for å fremme kvaliteten i diabetesbehandlingen hos barn og ungdom er å rapportere dataene tilbake til barneavdelingene, der kvalitetsarbeidet skjer. Avdelingene får rapporter både på egne data, og rapporter på egne data sammenlignet (benchmarket) med alle de andre barneavdelingene i Norge. 
 
-## Formål
+# Formål
 
 Barnediabetesregisterets formål er:
 
 1. Overvåke forekomsten av diabetes hos barn og ungdom.
 2. Arbeide for å bedre diagnostikk og klassifisering av sykdommen.
-3. Overvåke og bedre kvaliteten av diabetesbehandlingen i henhold til nasjonale og internasjonale standarder (se www.ispad.org).
+3. Overvåke og bedre kvaliteten av diabetesbehandlingen i henhold til nasjonale og internasjonale standarder (se [www.ispad.org][ispad]).
 4. Videreutvikle og drive et nettverk for kvalitetsutvikling mellom behandlende barneavdelinger i hele landet for å sikre et likeverdig behandlingstilbud.
 5. Overvåke forekomsten av kroniske og akutte komplikasjoner av sykdommen.
 6. Arbeide for å fremme forskning knyttet til diabetes.
+
+
+[ispad]: https://www.ispad.org/
