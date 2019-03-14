@@ -12,4 +12,4 @@ Tallene presentert i rapporten er ikke offisielle. Derfor må man benytte *passo
 for å ha lesetilgang til rapporten. Du kan ta kontakt med BDR kontaktperson for å
 tilgang til *passord* til ditt sykehus.
 
-* [Test](https://bdreg.github.io/benchmark/test.html)
+* [Test](https://bdreg.github.io/benchmark/test.html)  passord: *test*
