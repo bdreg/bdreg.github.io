@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Om BDR
+title: Om oss
 ---
 
 # Nasjonalt medisinsk kvalitetsregister for barne- og ungdomsdiabetes (BDR) 
