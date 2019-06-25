@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Veildening"
-date:   2019-01-02 12:00:00 -0400
+date:   2019-01-30 12:00:00 -0400
 permalink: eReg
 categories: ereg veiledning innregistrering
 ---
