@@ -7,7 +7,7 @@
 
 # Site settings
 title: BDR
-email: bdrreg@gmail.com #barnediabetes@ous-hf.no
+email: barnediabetes@ous-hf.no
 description: Analyse og statistik for Nasjonalt medisinsk kvalitetsregister for barne- og ungdomsdiabetes (BDR).
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
@@ -23,7 +23,7 @@ facebook_URL:
 instagram_username:
 dribbble_username:
 500px_username:
-phone:
+phone: +47 23015817
 
 # Build settings
 markdown: kramdown
