@@ -8,8 +8,4 @@ categories: benchmark
 
 Benchmarking rapport for sykehusene sammenligner med nasjonale tall. 
 
-Tallene presentert i rapporten er ikke offisielle. Derfor må man benytte *passord*
-for å ha lesetilgang til rapporten. Du kan ta kontakt med BDR kontaktperson for å
-tilgang til *passord* til ditt sykehus.
-
-* [Test](https://bdreg.github.io/benchmark/test.html)  passord: *test*
+* [Rapport](https://bdreg.github.io/benchmark/docs/index.html)
