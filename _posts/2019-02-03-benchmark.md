@@ -1,11 +1,16 @@
 ---
 layout: page
-title:  "Benchmarking"
+title:  "Årsrapport"
 date:   2019-01-10 12:00:00 -0400
-permalink: bdrbenchmark
+# permalink: bdrbenchmark
 categories: benchmark
 ---
 
-Benchmarking rapport for sykehusene sammenligner med nasjonale tall. 
+Rapport med nasjonale tall.
 
-* [Rapport](https://bdreg.github.io/benchmark/docs/index.html)
+Benchmarkingsrapport og årsrapport for sykehusene sammenligner med nasjonale tall. 
+
+* [Benchmarkingsrapport](https://bdreg.github.io/benchmark/docs/index.html)
+
+
+Datagrunnlaget er sist oppdatert 28.08.2019
