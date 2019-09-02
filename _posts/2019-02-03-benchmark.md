@@ -10,6 +10,7 @@ Rapport med nasjonale tall.
 
 Benchmarkingsrapport og årsrapport for sykehusene sammenligner med nasjonale tall. 
 
+* [Hele landet]() (https://bdreg.github.io/benchmark/norge/): Årskontroller tall for hele landet
 * [Benchmarkingsrapport](https://bdreg.github.io/benchmark/docs/test):  Rapporten skal være tilgjengelig **03.08.2019**
 
 
