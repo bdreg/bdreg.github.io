@@ -10,7 +10,7 @@ Rapport med nasjonale tall.
 
 Benchmarkingsrapport og årsrapport for sykehusene sammenligner med nasjonale tall. 
 
-* [Benchmarkingsrapport](https://bdreg.github.io/benchmark/docs/)
+* [Benchmarkingsrapport](https://bdreg.github.io/benchmark/docs/test) Rapporten skal være tilgjengelig 03.08.2019
 
 
 Datagrunnlaget er sist oppdatert 28.08.2019
