@@ -1,9 +1,9 @@
 ---
 layout: page
-title:  "Årsrapport"
+title:  "Nasjonal rapport "
 date:   2019-01-10 12:00:00 -0400
 permalink: bdrbenchmark
-categories: benchmark
+categories: nasjonal
 ---
 
 Rapport med nasjonale tall.
@@ -11,7 +11,7 @@ Rapport med nasjonale tall.
 Benchmarkingsrapport og årsrapport for sykehusene sammenligner med nasjonale tall. 
 
 * [Hele landet](https://bdreg.github.io/benchmark/norge/): Årskontroller tall for hele landet
-* [Benchmarkingsrapport](https://bdreg.github.io/benchmark/docs/test):  Rapporten skal være tilgjengelig **03.08.2019**
+* [Benchmarkingsrapport](https://bdreg.github.io/benchmark/docs/): Resultat fra sykehusene sammenligner med nasjonale tall
 
 
 Datagrunnlaget er sist oppdatert **28.08.2019**
