@@ -2,8 +2,8 @@
 layout: page
 title:  "Sykehusrapport"
 date:   2019-01-10 12:00:00 -0400
-permalink: rapport
-categories: rapport
+permalink: update
+categories: sykehusrapport
 ---
 
 Valg ditt sykehus!
