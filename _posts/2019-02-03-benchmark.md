@@ -2,7 +2,7 @@
 layout: page
 title:  "Nasjonal rapport "
 date:   2019-01-10 12:00:00 -0400
-permalink: bdrbenchmark
+permalink: rapport
 categories: nasjonal
 ---
 
