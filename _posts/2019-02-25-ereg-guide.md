@@ -9,7 +9,6 @@ categories: ereg veiledning innregistrering
 Veiledning for innregistrering på eReg.
 
 - [Veiledning][veileding]: Veildening for hvordan man skal legge inn data i e-Reg. Dette er en *PDF* dokument.
-
 - [eReg][ereg]: Innregistreringsløsning som brukes til å legge inn data
 
 [ereg]: https://oslo-universitetssykehus.no/fag-og-forskning/forskning/servicemiljo-for-kvalitetsregistre-hso/ereg
