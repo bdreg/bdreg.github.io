@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Veildening"
+title:  "Veiledning"
 date:   2019-01-30 12:00:00 -0400
 permalink: eReg
 categories: ereg veiledning innregistrering
