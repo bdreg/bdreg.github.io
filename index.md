@@ -9,7 +9,7 @@ Analyse og statistikk for <a href="https://oslo-universitetssykehus.no/avdelinge
 </h1> 
 
 <p>
-Dene siden inneholder informasjon relatert til analyse og statistikk for BDR. Resultatene som presenteres her er
+Denne siden inneholder informasjon relatert til analyse og statistikk for BDR. Resultatene som presenteres her er
 ikke erstatning til den som er presenteres i <a href="https://www.kvalitetsregistre.no/registers/465/resultater" target="_blank">
 Resultatportalen</a>, men er ment som et suplement.
 </p> 
